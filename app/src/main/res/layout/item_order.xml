@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:padding="10dp"
+              android:layout_height="wrap_content">
+
+    <TextView
+            android:layout_marginTop="10dp"
+            android:id="@+id/orderid"
+            android:text="OrderId"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+    <TextView
+            android:layout_marginTop="10dp"
+            android:id="@+id/name"
+            android:text="name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+    <TextView
+            android:layout_marginTop="10dp"
+            android:id="@+id/no_telp"
+            android:text="no_telp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+    <TextView
+            android:layout_marginTop="10dp"
+            android:id="@+id/alamat"
+            android:text="alamat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+    <TextView
+            android:layout_marginTop="10dp"
+            android:id="@+id/total"
+            android:text="total"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+    <Button
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:id="@+id/lihatpesanan"
+            android:text="Lihat pesanan"
+            android:background="@color/colorPrimaryDark"
+            android:textColor="#fff"
+            android:layout_height="50dp"/>
+
+</LinearLayout>

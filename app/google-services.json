@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "820200350798",
+    "firebase_url": "https://coffeedelivery-9a8e7.firebaseio.com",
+    "project_id": "coffeedelivery-9a8e7",
+    "storage_bucket": "coffeedelivery-9a8e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820200350798:android:c79966f7b011e3ea1e0f1f",
+        "android_client_info": {
+          "package_name": "com.tugasbesarkotlin4.coffeedelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820200350798-mudkuvdaosis5eqajsvlpfr6k68e6vmt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tugasbesarkotlin4.coffeedelivery",
+            "certificate_hash": "52019e0f8cec9db708895dc419e6213a819548d8"
+          }
+        },
+        {
+          "client_id": "820200350798-cmbm8tjmtnh5o6rdgc0je4n2hu4buajn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ1I765toWmWa_iuZrKKpYOCPmKGhIXWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820200350798-cmbm8tjmtnh5o6rdgc0je4n2hu4buajn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
